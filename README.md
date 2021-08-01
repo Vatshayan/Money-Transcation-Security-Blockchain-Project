@@ -3,6 +3,9 @@ Protection and Security of Transaction between friends with help of Blockchain. 
 
 
 ## ABSTRACT:
+Transcation between friends is secured by using blockchain technology. Here we will use see how transcation is secured and protected. Project is in python Programming. 
+
+
 
 Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system.
 

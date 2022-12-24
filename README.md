@@ -62,4 +62,4 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 Mail/Message me for Projects Help 🙏🏻
 
-## New Blockchain Project : [Blockchain Election Voting System](https://youtu.be/-OD5LRbKcJI) 
+### Top blockchain projects : https://vatshayan.medium.com/top-3-blockchain-final-year-projects-e910c25403a4
